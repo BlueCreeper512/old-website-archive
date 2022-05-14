@@ -49,7 +49,7 @@ ul.posts li {
 
 @font-face {
     font-family: 'Nunito', sans-serif;
-    src: url("/Nuito-Light.ttf") format('truetype');
+    src: url("https://github.com/BlueCreeper512/old/blob/main/Nunito-Light.ttf") format('truetype');
     font-weight: light;
     font-style: light;
 }
